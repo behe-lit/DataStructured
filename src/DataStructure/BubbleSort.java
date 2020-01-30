@@ -1,7 +1,7 @@
 package DataStructure;
 
 public class BubbleSort {
-	//버블정렬
+	//버블정렬ㄹ
 	public static void main(String[] args) {
 		int array[] = {5,4,3,2,1};
 
